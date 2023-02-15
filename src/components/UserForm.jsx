@@ -10,7 +10,8 @@ const UserForm = () => {
     }
 
     const buttonStyle ={
-        margin:"1.5rem auto"
+        margin:"1.5rem auto",
+        borderRadius:'1.5rem'
     }
   
   return (
