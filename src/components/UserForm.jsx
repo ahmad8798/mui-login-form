@@ -15,7 +15,7 @@ const UserForm = () => {
     }
   
   return (
-        <Grid>
+        <Grid container>
             <Paper elevation={10} style={paperStyling}>
             <Grid align="center">
             <Avatar style={avatarStyle}><PersonIcon/></Avatar>    
